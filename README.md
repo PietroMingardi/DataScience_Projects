@@ -21,7 +21,7 @@ Example of hierarchical modelling applicable to clinical and intervention studie
 ### Depression & Music Survey – Ordinal Regression
 Ordinal logistic regression applied to real-world survey data, with attention to inferential interpretation and methodological validity.
 
-### ML Regression – Cognitive Performance
+### A Methodological Case Study in Machine Learning Regression for Behavioral Data
 Comparative analysis of regularized linear models and ensemble methods using cross-validation and permutation importance.
 
 ### ML Classification – Decision Fatigue

@@ -24,5 +24,5 @@ Ordinal logistic regression applied to real-world survey data, with attention to
 ### A Methodological Case Study in Machine Learning Regression for Behavioral Data
 Comparative analysis of regularized linear models and ensemble methods using cross-validation and permutation importance.
 
-### ML Classification – Decision Fatigue
+### Methodological Evaluation of Interpretable Classification Models in a Simulated Decision Fatigue Dataset
 Supervised classification workflow with structured Exploratory Data Analysis (EDA), class imbalance handling, leakage control and interpretability considerations.
